@@ -1,4 +1,3 @@
-package internshipTasks;
 
 import java.awt.Color;
 import java.awt.Dimension;
@@ -12,7 +11,6 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-import javax.swing.Box;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -20,8 +18,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
-
-import DesktopAppProject.DatabaseConnectivity;
 
 public class studentApp extends JFrame {
     public studentApp() {
